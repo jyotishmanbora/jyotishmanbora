@@ -1,4 +1,6 @@
-## Hi there 👋
+#Jyotishman Bora
+##Researh Scholar, MFSDSAI, IIT Guwahati
+###Assam, India
 
 <!--
 **jyotishmanbora/jyotishmanbora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
